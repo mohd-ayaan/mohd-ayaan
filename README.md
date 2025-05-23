@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohd Ayaan and I'm a student doing my Bachelor's in computer science.</h2>
+<h2 align="left">Hi 👋! My name is Mohd Ayaan, doing my Bachelor's in computer science with specialization in AIML.</h2>
 
 ###
 
