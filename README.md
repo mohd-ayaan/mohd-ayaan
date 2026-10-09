@@ -1,4 +1,4 @@
-<h2 align="left">Mohd Ayaan | B.Tech-CSE| AIML.</h2>
+<h2 align="left">Mohd Ayaan | B.Tech-CSE | AIML.</h2>
 
 
 ###
